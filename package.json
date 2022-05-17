@@ -1,0 +1,24 @@
+{
+  "name": "semver",
+  "version": "1.0.0",
+  "description": "Demo for versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdax-leo/semver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdax-leo/semver/issues"
+  },
+  "homepage": "https://github.com/pdax-leo/semver#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
